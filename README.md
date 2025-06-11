@@ -1,1 +1,2 @@
-# Gemini-AI-Clone
+# Gemini AI Clone
+This project showcases a responsive web application that replicates the functionality of Gemini AI, built using HTML, CSS, and JavaScript. Utilizing the Gemini AI API, it offers seamless interaction and real-time responses. Explore the code to understand how to integrate AI capabilities into your own projects!
